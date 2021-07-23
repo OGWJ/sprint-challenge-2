@@ -51,7 +51,7 @@ nav {
   background-repeat: no-repeat;
 }
 
-/* media query */
-.rotate {
-  transform: skewY(14);
+/* accordion */
+#accordion .btn {
+  min-width: 400px;
 }
